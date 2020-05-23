@@ -1,1 +1,1 @@
-# jekyll-template
+# jekyll-klise
